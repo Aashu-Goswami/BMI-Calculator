@@ -40,9 +40,7 @@ The interface also displays the BMI ranges for each category, helping users bett
 
 ## 🎥 Preview
 
-```md
 ![BMI Calculator](asset/Demo.gif)
-```
 
 ## 🎯 Learning Purpose
 
